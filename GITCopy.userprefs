@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AttackTower_IconInteraction.js">
+    <Files>
+      <File FileName="Assets\Scripts\HolderInteractionScript.js" Line="10" Column="14" />
+      <File FileName="Assets\Scripts\AttackTower_IconInteraction.js" Line="8" Column="32" />
+      <File FileName="Assets\Scripts\TradeTower_IconInteractionScript.js" Line="5" Column="28" />
+      <File FileName="Assets\Scripts\HolderBuildScript.js" Line="13" Column="97" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
